@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "matdin.h": "c",
+        "utils.h": "c",
+        "stdio.h": "c"
+    }
+}

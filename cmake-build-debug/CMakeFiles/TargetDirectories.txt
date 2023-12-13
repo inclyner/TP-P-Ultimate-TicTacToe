@@ -1,0 +1,3 @@
+C:/Users/incly/Desktop/praticas isec/programacao/tp/cmake-build-debug/CMakeFiles/tp.dir
+C:/Users/incly/Desktop/praticas isec/programacao/tp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/incly/Desktop/praticas isec/programacao/tp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
