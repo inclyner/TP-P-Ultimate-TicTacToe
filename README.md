@@ -90,6 +90,6 @@ Instituto Superior de Engenharia de Coimbra
 Eng. Informática  
 a2019129635@isec.pt  
 2020-2021
-```
+
 
 This README provides a structured and comprehensive overview of the Ultimate Tic-Tac-Toe project, its data structures, functions, general functionality, and development environment.
