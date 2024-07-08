@@ -1,4 +1,4 @@
-```markdown
+
 # Ultimate Tic-Tac-Toe
 
 ## Overview
@@ -19,7 +19,7 @@ struct jogo {
 };
 
 pjogada lista_ligada = NULL;
-```
+«
 
 ## Functions
 
